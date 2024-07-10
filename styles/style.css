@@ -1,0 +1,20 @@
+
+/*header*/
+.name{
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    left: 100px;
+    top: 5px;
+}
+.download{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+   left: 100%;
+    top: 20px;
+}
+
+
+
+    
